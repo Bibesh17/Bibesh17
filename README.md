@@ -29,7 +29,7 @@
 - Strengthening frontend fundamentals
 - Building real-world UI projects
 - Learning React for modern web development
-- Exploring .NET and C# basics
+- Exploring .NET, MVC and C# basics
 
 ---
 
