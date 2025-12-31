@@ -10,7 +10,7 @@
 - HTML5
 - CSS3
 - JavaScript
-- Normalize.css
+- Normalize CSS
 - Tailwind CSS
 - React 
 - Git & GitHub
